@@ -1,1 +1,2 @@
-print("hello from main branch")
+name = input("Enter Name:")
+print(f"hello, {name}")
